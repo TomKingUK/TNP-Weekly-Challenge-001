@@ -1,15 +1,11 @@
 # Welcome to the first Tuesday Night Python exercise
 
-This Python template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+Correct the code and run it to check if it worked.
 
-
-The source code is on [GitHub](https://github.com/TechDotIO/python-template), please feel free to come up with proposals to improve it.
-
-# Hands-on Demo
+# Correct the code
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
 
-Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
 # Template Resources
 
@@ -24,7 +20,3 @@ A simple Python project dedicated to run the programming exercise above. A proje
 [`techio.yml`](https://github.com/TechDotIO/python-template/blob/master/techio.yml)
 This *mandatory* file describes both the table of content and the programming project(s). The file path should not be changed.
 
-
-# Visual and Interactive Content
-
-Tech.io provides all the tools to embed visual and interactive content like a Web app or a Unix terminal within your contribution. Please refer to the [documentation](https://tech.io/doc) to learn more about the viewer integrations.
