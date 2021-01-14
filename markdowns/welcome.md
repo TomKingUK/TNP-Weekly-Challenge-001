@@ -1,5 +1,7 @@
-# Welcome to the first Tuesday Night Python exercise
+# Morse
 
-Correct the code and run it to check if it worked.
+*BEEP BEEP BEEEEP*
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.py"], "command": "python3 test_universe.py"})
+
+
+@[Can you decode and print out the secret message?]({"stubs": ["message.py"], "command": "python3 test_message.py"})
